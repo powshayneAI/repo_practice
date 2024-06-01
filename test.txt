@@ -1,0 +1,20 @@
+This is a test to ensure I've learned how to properly clone and send
+repositories back into github.
+
+If I am able to read this on github I will successfully understand how
+to successfully push and pull repositories through a few different tests.
+
+I will utilize the text file to take note of anything odd for future reference.
+
+git status is used to check and ensure that everything is up to date in the
+terminal.
+
+git add . is used to add any adjustments made to any files within the repository
+folder.
+
+git commit -m "[enter message here]" is used to commit the edits in terminal,
+preparing to push to github.
+
+git push is used to push the repository back to github.
+
+don't forget to save often
