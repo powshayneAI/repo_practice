@@ -17,4 +17,6 @@ preparing to push to github.
 
 git push is used to push the repository back to github.
 
-don't forget to save often
+don't forget to save often.
+
+git pull successfully worked. now to return the repository once more.
